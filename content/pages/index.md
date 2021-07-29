@@ -19,9 +19,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Learn More
-        url: /features
-        style: secondary
   - section_id: features
     type: section_features
     background: gray
