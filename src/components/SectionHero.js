@@ -31,6 +31,7 @@ export default class SectionHero extends React.Component {
                                     <CtaButtons actions={actions} />
                                 </div>
                             )}
+                            <small>BRAND NEW THEME</small>
                         </div>
                     </div>
                 </div>
