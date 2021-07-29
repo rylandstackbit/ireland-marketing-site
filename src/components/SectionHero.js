@@ -24,6 +24,7 @@ export default class SectionHero extends React.Component {
                             </div>
                         )}
                         <div className="cell block-content">
+                            <small></small>
                             {title && <h2 className="block-title underline">{title}</h2>}
                             {content && <div className="block-copy">{markdownify(content)}</div>}
                             {actions && (
